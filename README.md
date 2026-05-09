@@ -35,7 +35,7 @@
 
 **代码示例**（以书写 ghoux 为例）：
 ```
-<!-- 黎语：ghoux (我) -->
+<!-- 黎族话：ghoux (我) -->
 <img src="https://raw.githubusercontent.com/hlai-li/hlai_block-script/refs/heads/main/svg_files/tone_gh.svg" style="height: 1.1em; vertical-align: middle;" alt="gh"><img src="https://raw.githubusercontent.com/hlai-li/hlai_block-script/refs/heads/main/svg_files/tone_ou.svg" style="height: 1.1em; vertical-align: middle;" alt="ou"><img src="https://raw.githubusercontent.com/hlai-li/hlai_block-script/refs/heads/main/svg_files/tone_-x.svg" style="height: 1.1em; vertical-align: middle;" alt="-x">
 ```
 👇 **实际渲染效果**：
@@ -92,8 +92,8 @@
 语言是活态的历史，而不是封闭的博物馆。
 
 在长达千年的历史交融中，现代汉语（及海南闽语）早已成为黎族同胞日常表达不可或缺的一部分。因此，本「方块黎文」引擎强烈倡导「自然混排法则」：
-* 1、**拒绝生造词**：对于黎语原生词库中不存在的现代事物（如「科学」「电脑」「警察」），**请直接使用现代规范汉字**。
-* 2、**拒绝刻意外化**：不提倡为了追求「纯粹」而刻意生造冗长的黎语复合词，或刻意使用西方外来语替代已有的汉语借词。
+* 1、**拒绝生造词**：对于黎族话原生词库中不存在的现代事物（如「科学」「电脑」「警察」），**请直接使用现代规范汉字**。
+* 2、**拒绝刻意外化**：不提倡为了追求「纯粹」而刻意生造冗长的黎族话复合词，或刻意使用西方外来语替代已有的汉语借词。
 
 让黎族的原生语法和古老词根，以绝美的「方块黎文」呈现；让现代文明的共有概念，以「汉字」呈现。这并非妥协，而是 100% 诚实地还原了，现代双语黎族同胞脑海中最真实的思维状态。
 
