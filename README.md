@@ -36,7 +36,9 @@
 **代码示例**（以书写 ghoux 为例）：
 ```
 <!-- 黎族话：ghoux (我) -->
-<img src="https://raw.githubusercontent.com/hlai-li/hlai_block-script/refs/heads/main/svg_files/tone_gh.svg" style="height: 1.1em; vertical-align: middle;" alt="gh"><img src="https://raw.githubusercontent.com/hlai-li/hlai_block-script/refs/heads/main/svg_files/tone_ou.svg" style="height: 1.1em; vertical-align: middle;" alt="ou"><img src="https://raw.githubusercontent.com/hlai-li/hlai_block-script/refs/heads/main/svg_files/tone_-x.svg" style="height: 1.1em; vertical-align: middle;" alt="-x">
+<img src="https://raw.githubusercontent.com/hlai-li/hlai_block-script/refs/heads/main/svg_files/tone_gh.svg" style="height: 1.1em; vertical-align: middle;" alt="gh">
+<img src="https://raw.githubusercontent.com/hlai-li/hlai_block-script/refs/heads/main/svg_files/tone_ou.svg" style="height: 1.1em; vertical-align: middle;" alt="ou">
+<img src="https://raw.githubusercontent.com/hlai-li/hlai_block-script/refs/heads/main/svg_files/tone_-x.svg" style="height: 1.1em; vertical-align: middle;" alt="-x">
 ```
 👇 **实际渲染效果**：
 
