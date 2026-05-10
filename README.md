@@ -112,3 +112,69 @@
 * UI／视觉设计师：对古风线条的曲率和对齐方式有更好的优化建议。
 
 欢迎您将宝贵的意见留言在本项目的 Pull Requests 中。在此向每一位为中华民族文化保护贡献力量的朋友，致以最诚挚的谢意！
+
+### 方块黎文字母表
+#### 🔹 声母部
+| b | p | m | f | v | d |
+| --- | --- | --- | --- | --- | --- |
+| <img src="svg_files/tone_b.svg" style="height: 1.8em; vertical-align: middle;" alt="b"> | <img src="svg_files/tone_p.svg" style="height: 1.8em; vertical-align: middle;" alt="p"> | <img src="svg_files/tone_m.svg" style="height: 1.8em; vertical-align: middle;" alt="m"> | <img src="svg_files/tone_f.svg" style="height: 1.8em; vertical-align: middle;" alt="f"> | <img src="svg_files/tone_v.svg" style="height: 1.8em; vertical-align: middle;" alt="v"> | <img src="svg_files/tone_d.svg" style="height: 1.8em; vertical-align: middle;" alt="d"> |
+| t | n | l | r | z | c |
+| <img src="svg_files/tone_t.svg" style="height: 1.8em; vertical-align: middle;" alt="t"> | <img src="svg_files/tone_n.svg" style="height: 1.8em; vertical-align: middle;" alt="n"> | <img src="svg_files/tone_l.svg" style="height: 1.8em; vertical-align: middle;" alt="l"> | <img src="svg_files/tone_r.svg" style="height: 1.8em; vertical-align: middle;" alt="r"> | <img src="svg_files/tone_z.svg" style="height: 1.8em; vertical-align: middle;" alt="z"> | <img src="svg_files/tone_c.svg" style="height: 1.8em; vertical-align: middle;" alt="c"> |
+| s | g | k | h | y | w |
+| <img src="svg_files/tone_s.svg" style="height: 1.8em; vertical-align: middle;" alt="s"> | <img src="svg_files/tone_g.svg" style="height: 1.8em; vertical-align: middle;" alt="g"> | <img src="svg_files/tone_k.svg" style="height: 1.8em; vertical-align: middle;" alt="k"> | <img src="svg_files/tone_h.svg" style="height: 1.8em; vertical-align: middle;" alt="h"> | <img src="svg_files/tone_y.svg" style="height: 1.8em; vertical-align: middle;" alt="y"> | <img src="svg_files/tone_w.svg" style="height: 1.8em; vertical-align: middle;" alt="w"> |
+| bh | dh | bl | hl | dz | gh |
+| <img src="svg_files/tone_bh.svg" style="height: 1.8em; vertical-align: middle;" alt="bh"> | <img src="svg_files/tone_dh.svg" style="height: 1.8em; vertical-align: middle;" alt="dh"> | <img src="svg_files/tone_bl.svg" style="height: 1.8em; vertical-align: middle;" alt="bl"> | <img src="svg_files/tone_hl.svg" style="height: 1.8em; vertical-align: middle;" alt="hl"> | <img src="svg_files/tone_dz.svg" style="height: 1.8em; vertical-align: middle;" alt="dz"> | <img src="svg_files/tone_gh.svg" style="height: 1.8em; vertical-align: middle;" alt="gh"> |
+| ng | ny | hy | gw | kw | hw |
+| <img src="svg_files/tone_ng.svg" style="height: 1.8em; vertical-align: middle;" alt="ng"> | <img src="svg_files/tone_ny.svg" style="height: 1.8em; vertical-align: middle;" alt="ny"> | <img src="svg_files/tone_hy.svg" style="height: 1.8em; vertical-align: middle;" alt="hy"> | <img src="svg_files/tone_gw.svg" style="height: 1.8em; vertical-align: middle;" alt="gw"> | <img src="svg_files/tone_kw.svg" style="height: 1.8em; vertical-align: middle;" alt="kw"> | <img src="svg_files/tone_hw.svg" style="height: 1.8em; vertical-align: middle;" alt="hw"> |
+| ghw | ngw | ty | uu |  |  |
+| <img src="svg_files/tone_ghw.svg" style="height: 1.8em; vertical-align: middle;" alt="ghw"> | <img src="svg_files/tone_ngw.svg" style="height: 1.8em; vertical-align: middle;" alt="ngw"> | <img src="svg_files/tone_ty.svg" style="height: 1.8em; vertical-align: middle;" alt="ty"> | <img src="svg_files/tone_uu.svg" style="height: 1.8em; vertical-align: middle;" alt="uu"> |  |  |
+
+#### 🔸 韵母部 - A系
+| a | ae | ai | au | am | an |
+| --- | --- | --- | --- | --- | --- |
+| <img src="svg_files/tone_a.svg" style="height: 1.8em; vertical-align: middle;" alt="a"> | <img src="svg_files/tone_ae.svg" style="height: 1.8em; vertical-align: middle;" alt="ae"> | <img src="svg_files/tone_ai.svg" style="height: 1.8em; vertical-align: middle;" alt="ai"> | <img src="svg_files/tone_au.svg" style="height: 1.8em; vertical-align: middle;" alt="au"> | <img src="svg_files/tone_am.svg" style="height: 1.8em; vertical-align: middle;" alt="am"> | <img src="svg_files/tone_an.svg" style="height: 1.8em; vertical-align: middle;" alt="an"> |
+| ang | ap | at | ak | aei | aeu |
+| <img src="svg_files/tone_ang.svg" style="height: 1.8em; vertical-align: middle;" alt="ang"> | <img src="svg_files/tone_ap.svg" style="height: 1.8em; vertical-align: middle;" alt="ap"> | <img src="svg_files/tone_at.svg" style="height: 1.8em; vertical-align: middle;" alt="at"> | <img src="svg_files/tone_ak.svg" style="height: 1.8em; vertical-align: middle;" alt="ak"> | <img src="svg_files/tone_aei.svg" style="height: 1.8em; vertical-align: middle;" alt="aei"> | <img src="svg_files/tone_aeu.svg" style="height: 1.8em; vertical-align: middle;" alt="aeu"> |
+| aem | aen | aeng | aep | aet | aek |
+| <img src="svg_files/tone_aem.svg" style="height: 1.8em; vertical-align: middle;" alt="aem"> | <img src="svg_files/tone_aen.svg" style="height: 1.8em; vertical-align: middle;" alt="aen"> | <img src="svg_files/tone_aeng.svg" style="height: 1.8em; vertical-align: middle;" alt="aeng"> | <img src="svg_files/tone_aep.svg" style="height: 1.8em; vertical-align: middle;" alt="aep"> | <img src="svg_files/tone_aet.svg" style="height: 1.8em; vertical-align: middle;" alt="aet"> | <img src="svg_files/tone_aek.svg" style="height: 1.8em; vertical-align: middle;" alt="aek"> |
+
+#### 🔸 韵母部 - E系
+| e | ee | ei | eu | em | en |
+| --- | --- | --- | --- | --- | --- |
+| <img src="svg_files/tone_e.svg" style="height: 1.8em; vertical-align: middle;" alt="e"> | <img src="svg_files/tone_ee.svg" style="height: 1.8em; vertical-align: middle;" alt="ee"> | <img src="svg_files/tone_ei.svg" style="height: 1.8em; vertical-align: middle;" alt="ei"> | <img src="svg_files/tone_eu.svg" style="height: 1.8em; vertical-align: middle;" alt="eu"> | <img src="svg_files/tone_em.svg" style="height: 1.8em; vertical-align: middle;" alt="em"> | <img src="svg_files/tone_en.svg" style="height: 1.8em; vertical-align: middle;" alt="en"> |
+| eng | ep | et | ek | eei | eeu |
+| <img src="svg_files/tone_eng.svg" style="height: 1.8em; vertical-align: middle;" alt="eng"> | <img src="svg_files/tone_ep.svg" style="height: 1.8em; vertical-align: middle;" alt="ep"> | <img src="svg_files/tone_et.svg" style="height: 1.8em; vertical-align: middle;" alt="et"> | <img src="svg_files/tone_ek.svg" style="height: 1.8em; vertical-align: middle;" alt="ek"> | <img src="svg_files/tone_eei.svg" style="height: 1.8em; vertical-align: middle;" alt="eei"> | <img src="svg_files/tone_eeu.svg" style="height: 1.8em; vertical-align: middle;" alt="eeu"> |
+| eem | een | eeng | eep | eet | eek |
+| <img src="svg_files/tone_eem.svg" style="height: 1.8em; vertical-align: middle;" alt="eem"> | <img src="svg_files/tone_een.svg" style="height: 1.8em; vertical-align: middle;" alt="een"> | <img src="svg_files/tone_eeng.svg" style="height: 1.8em; vertical-align: middle;" alt="eeng"> | <img src="svg_files/tone_eep.svg" style="height: 1.8em; vertical-align: middle;" alt="eep"> | <img src="svg_files/tone_eet.svg" style="height: 1.8em; vertical-align: middle;" alt="eet"> | <img src="svg_files/tone_eek.svg" style="height: 1.8em; vertical-align: middle;" alt="eek"> |
+
+#### 🔸 韵母部 - I系
+| i | ie | iu | im | in | ing |
+| --- | --- | --- | --- | --- | --- |
+| <img src="svg_files/tone_i.svg" style="height: 1.8em; vertical-align: middle;" alt="i"> | <img src="svg_files/tone_ie.svg" style="height: 1.8em; vertical-align: middle;" alt="ie"> | <img src="svg_files/tone_iu.svg" style="height: 1.8em; vertical-align: middle;" alt="iu"> | <img src="svg_files/tone_im.svg" style="height: 1.8em; vertical-align: middle;" alt="im"> | <img src="svg_files/tone_in.svg" style="height: 1.8em; vertical-align: middle;" alt="in"> | <img src="svg_files/tone_ing.svg" style="height: 1.8em; vertical-align: middle;" alt="ing"> |
+| ip | it | ik | ieu | iem | ien |
+| <img src="svg_files/tone_ip.svg" style="height: 1.8em; vertical-align: middle;" alt="ip"> | <img src="svg_files/tone_it.svg" style="height: 1.8em; vertical-align: middle;" alt="it"> | <img src="svg_files/tone_ik.svg" style="height: 1.8em; vertical-align: middle;" alt="ik"> | <img src="svg_files/tone_ieu.svg" style="height: 1.8em; vertical-align: middle;" alt="ieu"> | <img src="svg_files/tone_iem.svg" style="height: 1.8em; vertical-align: middle;" alt="iem"> | <img src="svg_files/tone_ien.svg" style="height: 1.8em; vertical-align: middle;" alt="ien"> |
+| ieng | iep | iet | iek |  |  |
+| <img src="svg_files/tone_ieng.svg" style="height: 1.8em; vertical-align: middle;" alt="ieng"> | <img src="svg_files/tone_iep.svg" style="height: 1.8em; vertical-align: middle;" alt="iep"> | <img src="svg_files/tone_iet.svg" style="height: 1.8em; vertical-align: middle;" alt="iet"> | <img src="svg_files/tone_iek.svg" style="height: 1.8em; vertical-align: middle;" alt="iek"> |  |  |
+
+#### 🔸 韵母部 - O系
+| o | oe | oi | ou | om | on |
+| --- | --- | --- | --- | --- | --- |
+| <img src="svg_files/tone_o.svg" style="height: 1.8em; vertical-align: middle;" alt="o"> | <img src="svg_files/tone_oe.svg" style="height: 1.8em; vertical-align: middle;" alt="oe"> | <img src="svg_files/tone_oi.svg" style="height: 1.8em; vertical-align: middle;" alt="oi"> | <img src="svg_files/tone_ou.svg" style="height: 1.8em; vertical-align: middle;" alt="ou"> | <img src="svg_files/tone_om.svg" style="height: 1.8em; vertical-align: middle;" alt="om"> | <img src="svg_files/tone_on.svg" style="height: 1.8em; vertical-align: middle;" alt="on"> |
+| ong | op | ot | ok | oei | oeu |
+| <img src="svg_files/tone_ong.svg" style="height: 1.8em; vertical-align: middle;" alt="ong"> | <img src="svg_files/tone_op.svg" style="height: 1.8em; vertical-align: middle;" alt="op"> | <img src="svg_files/tone_ot.svg" style="height: 1.8em; vertical-align: middle;" alt="ot"> | <img src="svg_files/tone_ok.svg" style="height: 1.8em; vertical-align: middle;" alt="ok"> | <img src="svg_files/tone_oei.svg" style="height: 1.8em; vertical-align: middle;" alt="oei"> | <img src="svg_files/tone_oeu.svg" style="height: 1.8em; vertical-align: middle;" alt="oeu"> |
+| oem | oen | oeng | oep | oet | oek |
+| <img src="svg_files/tone_oem.svg" style="height: 1.8em; vertical-align: middle;" alt="oem"> | <img src="svg_files/tone_oen.svg" style="height: 1.8em; vertical-align: middle;" alt="oen"> | <img src="svg_files/tone_oeng.svg" style="height: 1.8em; vertical-align: middle;" alt="oeng"> | <img src="svg_files/tone_oep.svg" style="height: 1.8em; vertical-align: middle;" alt="oep"> | <img src="svg_files/tone_oet.svg" style="height: 1.8em; vertical-align: middle;" alt="oet"> | <img src="svg_files/tone_oek.svg" style="height: 1.8em; vertical-align: middle;" alt="oek"> |
+
+#### 🔸 韵母部 - U系
+| u | ue | ui | un | ung | up |
+| --- | --- | --- | --- | --- | --- |
+| <img src="svg_files/tone_u.svg" style="height: 1.8em; vertical-align: middle;" alt="u"> | <img src="svg_files/tone_ue.svg" style="height: 1.8em; vertical-align: middle;" alt="ue"> | <img src="svg_files/tone_ui.svg" style="height: 1.8em; vertical-align: middle;" alt="ui"> | <img src="svg_files/tone_un.svg" style="height: 1.8em; vertical-align: middle;" alt="un"> | <img src="svg_files/tone_ung.svg" style="height: 1.8em; vertical-align: middle;" alt="ung"> | <img src="svg_files/tone_up.svg" style="height: 1.8em; vertical-align: middle;" alt="up"> |
+| ut | uk | uei | uen | ueng | uep |
+| <img src="svg_files/tone_ut.svg" style="height: 1.8em; vertical-align: middle;" alt="ut"> | <img src="svg_files/tone_uk.svg" style="height: 1.8em; vertical-align: middle;" alt="uk"> | <img src="svg_files/tone_uei.svg" style="height: 1.8em; vertical-align: middle;" alt="uei"> | <img src="svg_files/tone_uen.svg" style="height: 1.8em; vertical-align: middle;" alt="uen"> | <img src="svg_files/tone_ueng.svg" style="height: 1.8em; vertical-align: middle;" alt="ueng"> | <img src="svg_files/tone_uep.svg" style="height: 1.8em; vertical-align: middle;" alt="uep"> |
+| uet | uek |  |  |  |  |
+| <img src="svg_files/tone_uet.svg" style="height: 1.8em; vertical-align: middle;" alt="uet"> | <img src="svg_files/tone_uek.svg" style="height: 1.8em; vertical-align: middle;" alt="uek"> |  |  |  |  |
+
+#### 🔺 声调
+| -x | -s | -pp | -tt | -kk |  |
+| --- | --- | --- | --- | --- | --- |
+| <img src="svg_files/tone_-x.svg" style="height: 1.8em; vertical-align: middle;" alt="-x"> | <img src="svg_files/tone_-s.svg" style="height: 1.8em; vertical-align: middle;" alt="-s"> | <img src="svg_files/tone_-pp.svg" style="height: 1.8em; vertical-align: middle;" alt="-pp"> | <img src="svg_files/tone_-tt.svg" style="height: 1.8em; vertical-align: middle;" alt="-tt"> | <img src="svg_files/tone_-kk.svg" style="height: 1.8em; vertical-align: middle;" alt="-kk"> |  |
